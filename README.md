@@ -1,4 +1,4 @@
-### <h1 style="font-family:Fira Code">Hola Mundo, hola a todos :wave: </h1>
+### <h1 style="font-family:Fira Code; margin-top:-35px">Hola Mundo, hola a todos :wave: </h1>
 
 <p style="font-family:Fira Code">Podría decir que soy <strong> Desarrolladora Web Full Stack</strong>, Docente Universitaria y Licenciada en Relaciones Públicas... pero eso no me describe.
 Por mi carrera de base y características personales me reconozco como una facilitadora del proceso comunicativo. Siempre fui curiosa e inquieta y eso me llevó a cruzarme con el mundo de la programación:heart_decoration:; con el que quedé completamente cautivada y del cual ya no puedo dejar de formar parte. 

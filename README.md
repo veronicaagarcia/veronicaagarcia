@@ -1,8 +1,7 @@
 <h3 style="font-family:Fira Code">Hola Mundo, hola a todos :wave: </h3>
 
 <p style="font-family:Fira Code"> Podría decir que soy <var><strong>Desarrolladora Web Full Stack</strong></var>, Docente Universitaria y Licenciada en Relaciones Públicas... pero eso no me describe.<br>
-    Por mi carrera de base y características personales me reconozco como una facilitadora del proceso comunicativo. Siempre fui curiosa e inquieta y eso me llevó a cruzarme con el mundo de la programación:heart_decoration:<br>
-    Actualmente me encuentro en plena etapa de formación y crecimiento:construction: Retomé mis estudios para lograr una completa fluidez del idioma inglés, y estoy ampliando herramientas, profundizando contenidos, realizando prácticas y adentrándome aún más en el universo IT <br>
+    Por mi carrera de base y características personales me reconozco como una facilitadora del proceso comunicativo. Siempre fui curiosa e inquieta y eso me llevó a cruzarme con el mundo de la programación:heart_decoration:Actualmente me encuentro en plena etapa de formación y crecimiento:construction: Retomé mis estudios para lograr una completa fluidez del idioma inglés, y estoy ampliando herramientas, profundizando contenidos, realizando prácticas y adentrándome aún más en el universo IT <br>
     Me gusta describirme como una persona proactiva y en constante actualización que logró identificar su pasión:dart::computer:, y direccionar y volcar en ella, sus conocimientos y experiencias provenientes de lo formativo y laboral.</p>
 
 <p style="font-family:Fira Code">Actuales competencias:wrench:: <sub><strong>  Node.js,  JavaScript,  HTML5,  CSS3,  Express,  patrón de diseño MVC,  APIs,  MySQL,  React</strong></sub></p>

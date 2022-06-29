@@ -4,7 +4,7 @@
     Por mi carrera de base y características personales me reconozco como una facilitadora del proceso comunicativo. Siempre fui curiosa e inquieta y eso me llevó a cruzarme con el mundo de la programación:heart_decoration:Actualmente me encuentro en plena etapa de formación y crecimiento:construction: Retomé mis estudios para lograr una completa fluidez del idioma inglés, y estoy ampliando herramientas, profundizando contenidos, realizando prácticas y adentrándome aún más en el universo IT <br>
     Me gusta describirme como una persona proactiva y en constante actualización que logró identificar su pasión:dart::computer:, y direccionar y volcar en ella, sus conocimientos y experiencias provenientes de lo formativo y laboral.</p>
 
-<p style="font-family:Fira Code">Actuales competencias:wrench:: <sub><strong>  Node.js,  JavaScript,  HTML5,  CSS3,  Express,  patrón de diseño MVC,  APIs,  MySQL,  React</strong></sub></p>
+<p style="font-family:Fira Code">Actuales competencias:wrench:: <sub><strong>  Node.js,  Javascript,  HTML,  CSS,  Express,  GIT,  Metodologías Ágiles - Scrum,  OOP,  Postman,  Sequelize,  VSCode,  patrón de diseño MVC,  APIs,  MySQL,  React</strong></sub></p>
 
 <p style="font-family:Fira Code">:link:: www.linkedin.com/in/veronicaagarcia</p>
 <p style="font-family:Fira Code">:e-mail:: veroagarcia90@gmail.com</p>
